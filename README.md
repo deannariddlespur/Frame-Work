@@ -1,4 +1,7 @@
 [![Deploy](https://assets.digitalocean.com/blog/sammy-cleaning-up.png)](https://www.digitalocean.com)
+[![Deploy](http://backbonejs.org/docs/images/backbone.png)](https://www.digitalocean.com)
+
+http://backbonejs.org/docs/images/backbone.png
 # Backbone skeleton project for quick and easy deployment to digitalocean
 This project is for easy deployment of a Backbone.js application for DigitalOcean accounts.
 
