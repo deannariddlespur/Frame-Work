@@ -1,0 +1,26 @@
+{
+  "name": "backbone_template",
+  "version": "0.0.0",
+  "authors": [
+    "DeAnna Riddlespur <deanna.riddlespur@mexicoder.com.mx>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "2.1.4",
+    "backbone": "~1.2.3",
+    "underscore": "1.8.3"
+  }
+}
+
+

@@ -1,0 +1,24 @@
+body{
+    background: #f4f4f4 url(../imgs/background.png);
+}
+
+.backbone-icon{
+    width: 120px;
+}
+
+.header{
+    padding-top: 30px;
+}
+
+.header-text{
+    margin-top: 3px;
+    font-size: 75px;
+}
+
+#item-list{
+    padding: 16px 13px;
+}
+
+.list-style{
+    margin-top: 20px;
+}
